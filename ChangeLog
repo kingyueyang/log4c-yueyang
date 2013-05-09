@@ -1,6 +1,6 @@
 2012-05-03 yueyang <bj.yueyang@gmail.com>
-  * layout_type_basic_r.c: used localtime replace gmtime
-  * layout_type_basic.c: used localtime replace gmtime
+	* layout_type_basic_r.c: used localtime replace gmtime
+	* layout_type_basic.c: used localtime replace gmtime
 
 2007-09-18  Joel Schaubert    <joel4700@sbcglobal.net>
 
